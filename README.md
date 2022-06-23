@@ -1,4 +1,6 @@
-# p1-text-generation-starter
+# Laihong Xu readme
+
+By: Laihong Xu
 
 Credit: Adam Smith
 
